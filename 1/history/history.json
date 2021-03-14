@@ -1,0 +1,122 @@
+{
+  "86f4278ae3656c930bfbf4f995656a70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a591fdc93c8456a",
+      "reportUrl" : "https://Twoling.github.io/allure-junit5-maven/1//#testresult/a591fdc93c8456a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615703281620,
+        "stop" : 1615703281621,
+        "duration" : 1
+      }
+    } ]
+  },
+  "8df3deb6e7618dc18e1fd3f5594d5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5839b338c491261",
+      "reportUrl" : "https://Twoling.github.io/allure-junit5-maven/1//#testresult/c5839b338c491261",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615703281703,
+        "stop" : 1615703281706,
+        "duration" : 3
+      }
+    } ]
+  },
+  "928ba583d78cf996e6dfaed40645af76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5076691b2e66a105",
+      "reportUrl" : "https://Twoling.github.io/allure-junit5-maven/1//#testresult/5076691b2e66a105",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615703281462,
+        "stop" : 1615703281498,
+        "duration" : 36
+      }
+    } ]
+  },
+  "42e78a12ffdafedde84c3e9a61585391" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "577c9fc8c65e0882",
+      "reportUrl" : "https://Twoling.github.io/allure-junit5-maven/1//#testresult/577c9fc8c65e0882",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615703281659,
+        "stop" : 1615703281696,
+        "duration" : 37
+      }
+    } ]
+  },
+  "a0518510acbdde7729662dce5bf47660" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "952a273a2fa6f647",
+      "reportUrl" : "https://Twoling.github.io/allure-junit5-maven/1//#testresult/952a273a2fa6f647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615703281755,
+        "stop" : 1615703281756,
+        "duration" : 1
+      }
+    } ]
+  },
+  "64d3275cf0e37eeb527187beaa41ae30" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "be5056264892f825",
+      "reportUrl" : "https://Twoling.github.io/allure-junit5-maven/1//#testresult/be5056264892f825",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615703281732,
+        "stop" : 1615703281749,
+        "duration" : 17
+      }
+    } ]
+  }
+}
